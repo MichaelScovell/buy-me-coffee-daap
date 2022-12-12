@@ -1,10 +1,13 @@
-## Buy me a Coffee Daap
-Defi Daap for a buy me a coffee clone. Application is following the Alchemy Road to Web 3 Projects: https://docs.alchemy.com/docs/how-to-build-buy-me-a-coffee-defi-dapp
+# Sample Hardhat Project
 
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-## Technologies & Frameworks
-1) Alchemy
-2) Hardhat
-3) Solidity
-4) Replit
-5) Ethers.js
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
