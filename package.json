@@ -35,6 +35,7 @@
     "typechain": "^8.1.1"
   },
   "dependencies": {
-    "@nomiclabs/hardhat-waffle": "^2.0.3"
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "dotenv": "^16.0.3"
   }
 }
