@@ -17,7 +17,7 @@ contract BuyMeACoffee {
         address from;
         uint256 timestamp;
         string name;
-        string messasge;
+        string message;
     }
 
     // Defining a list of all memos
@@ -32,7 +32,7 @@ contract BuyMeACoffee {
     }
 
     // Defining a function for buying coffee
-    function buyCoffee(string memory _name,string memory _message) public payable {
+    function buyCoffee(string memory _name, string memory _message) public payable {
         // Check that the recieved funds for coffee is greater than 0
         require(msg.value > 0, "cant purchase coffee with 0 ETH");
 
