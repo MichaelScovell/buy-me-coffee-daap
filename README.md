@@ -11,9 +11,9 @@ This project followed the Alchmey Road to Web 3 Development projects:
 Technologies used:
 - Solidity - Used for developing the smart contracts
 - Hardhat - Ethereum development environment used for compiling and deploying the contracts
-- Ethers.JS - JS Library used for interacting with Ethereum
+- Ethers.JS - JS Library used for interacting with Ethereum Blockchain
 - React - For the frontend UI
-- Alchemy - Platform used for connecting the application to the blockchain
+- Alchemy - Platform used for connecting the application to the Blockchain
 
 
 ### How to use
