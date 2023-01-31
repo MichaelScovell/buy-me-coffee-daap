@@ -19,5 +19,5 @@ Technologies used:
 ### How to use
 1. Clone the repo
 2. Install packages by running `npm install`
-3. Create an env file and populate it with your Alchemy Application's API Key (which is needed for being able to invoke the API)
+3. Create an env file and populate it with your deployed contract address, wallet provider private key and corresponding Alchemy application keys (eg Chain URL and Chain API Keys).
 4. Run the application by using `npm run dev`
